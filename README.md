@@ -1,4 +1,4 @@
-# Company Reviews by Employees
+# Company Reviews by Employees 
 
 Scrape Indeed for all recent jobs listings matching given keywords, and then scrape Indeed and Glassdoor the reviews of the companies offering jobs.
 
